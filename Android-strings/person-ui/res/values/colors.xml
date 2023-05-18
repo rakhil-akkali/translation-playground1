@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="item_progress_1_gradient_end">#1FDC90</color>
+    <color name="item_progress_2_gradient_end">#85BEFF</color>
+    <color name="item_progress_gradient_start">#6269FF</color>
+</resources>

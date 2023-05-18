@@ -1,0 +1,4 @@
+"media_capture_privacy_alert_title" = "\"%@\" Would Like to Access the Camera";
+"media_capture_privacy_alert_message" = "Allow \"Camera\" permissions in Settings.";
+"media_capture_privacy_alert_cancel_button" = "Cancel";
+"media_capture_privacy_alert_open_settings_button" = "Open Settings";
