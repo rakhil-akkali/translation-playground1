@@ -2,5 +2,5 @@
 <resources>
     <string name="ok">- Ok</string>
     <string name="save">Salva</string>
-    <string name="create ">Creare nuovamente dopo l&apos;aggiornamento PTA</string>
+    <string name="create ">Creare nuovamente dopo il secondo aggiornamento PTA</string>
 </resources>

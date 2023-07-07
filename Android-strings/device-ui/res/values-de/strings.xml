@@ -2,5 +2,5 @@
 <resources>
     <string name="ok">Okay. Ich Bin Bereit</string>
     <string name="save">Speichern</string>
-    <string name="create ">Jetzt nach der PTA-Aktualisierung erneut erstellen</string>
+    <string name="create ">Jetzt erneut erstellen, nachdem die PTA-Aktualisierung ein zweites Mal durchgeführt wurde</string>
 </resources>

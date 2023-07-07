@@ -2,5 +2,5 @@
 <resources>
     <string name="ok">OK</string>
     <string name="save">Enregistrer</string>
-    <string name="create ">Créer à nouveau maintenant après la mise à jour du prépayé</string>
+    <string name="create ">Créez à nouveau maintenant après la deuxième mise à jour du prépayé</string>
 </resources>
